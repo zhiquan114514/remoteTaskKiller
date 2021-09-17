@@ -1,0 +1,208 @@
+﻿正在安装程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在安装服务 Service1...
+正在日志 Application 中创建 EventLog 源 Service1...
+正在回滚程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在将事件日志还原到源 Service1 的前一状态。
+正在卸载程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在移除 EventLog 源 Service1。
+正在从系统中移除服务 Service1...
+已成功地从系统中移除服务 Service1。
+尝试停止服务 Service1。
+正在安装程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在安装服务 Service2...
+已成功安装服务 Service2。
+正在日志 Application 中创建 EventLog 源 Service2...
+正在提交程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在安装程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在安装服务 Service2...
+正在日志 Application 中创建 EventLog 源 Service2...
+正在回滚程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在将事件日志还原到源 Service2 的前一状态。
+正在卸载程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在移除 EventLog 源 Service2。
+正在从系统中移除服务 Service2...
+已成功地从系统中移除服务 Service2。
+正在安装程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在安装服务 Service2...
+已成功安装服务 Service2。
+正在日志 Application 中创建 EventLog 源 Service2...
+正在提交程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在卸载程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在移除 EventLog 源 Service2。
+正在从系统中移除服务 Service2...
+已成功地从系统中移除服务 Service2。
+正在安装程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在安装服务 Service2...
+已成功安装服务 Service2。
+正在日志 Application 中创建 EventLog 源 Service2...
+正在提交程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在卸载程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在移除 EventLog 源 Service2。
+正在从系统中移除服务 Service2...
+已成功地从系统中移除服务 Service2。
+正在安装程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在安装服务 Service2...
+已成功安装服务 Service2。
+正在日志 Application 中创建 EventLog 源 Service2...
+正在提交程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在卸载程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在移除 EventLog 源 Service2。
+正在从系统中移除服务 Service2...
+已成功地从系统中移除服务 Service2。
+正在安装程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在安装服务 Service2...
+已成功安装服务 Service2。
+正在日志 Application 中创建 EventLog 源 Service2...
+正在提交程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在卸载程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在移除 EventLog 源 Service2。
+正在从系统中移除服务 Service2...
+已成功地从系统中移除服务 Service2。
+正在安装程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在安装服务 Service2...
+已成功安装服务 Service2。
+正在日志 Application 中创建 EventLog 源 Service2...
+正在提交程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在卸载程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在移除 EventLog 源 Service2。
+正在从系统中移除服务 Service2...
+已成功地从系统中移除服务 Service2。
+正在安装程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在安装服务 Service2...
+已成功安装服务 Service2。
+正在日志 Application 中创建 EventLog 源 Service2...
+正在提交程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在卸载程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在移除 EventLog 源 Service2。
+正在从系统中移除服务 Service2...
+已成功地从系统中移除服务 Service2。
+正在安装程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在安装服务 Service2...
+已成功安装服务 Service2。
+正在日志 Application 中创建 EventLog 源 Service2...
+正在提交程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在安装程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在安装服务 Service2...
+正在日志 Application 中创建 EventLog 源 Service2...
+正在回滚程序集“F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.InstallLog
+   assemblypath = F:\CSharp\RemoteTaskList\RemoteTaskList\bin\Debug\RemoteTaskList.exe
+正在将事件日志还原到源 Service2 的前一状态。
